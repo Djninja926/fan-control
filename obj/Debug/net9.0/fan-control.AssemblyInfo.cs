@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fan-control")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64c2d9606a91cdec555f79d2a50cc93a4e97a231")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0219c92348c6b9376dd12d9bbd9e6c24e906202a")]
 [assembly: System.Reflection.AssemblyProductAttribute("fan-control")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fan-control")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
