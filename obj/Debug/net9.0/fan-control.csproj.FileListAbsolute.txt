@@ -1,0 +1,15 @@
+C:\Users\Apia\Documents\Coding\fan-control\bin\Debug\net9.0\fan-control.exe
+C:\Users\Apia\Documents\Coding\fan-control\bin\Debug\net9.0\fan-control.deps.json
+C:\Users\Apia\Documents\Coding\fan-control\bin\Debug\net9.0\fan-control.runtimeconfig.json
+C:\Users\Apia\Documents\Coding\fan-control\bin\Debug\net9.0\fan-control.dll
+C:\Users\Apia\Documents\Coding\fan-control\bin\Debug\net9.0\fan-control.pdb
+C:\Users\Apia\Documents\Coding\fan-control\obj\Debug\net9.0\fan-control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apia\Documents\Coding\fan-control\obj\Debug\net9.0\fan-control.AssemblyInfoInputs.cache
+C:\Users\Apia\Documents\Coding\fan-control\obj\Debug\net9.0\fan-control.AssemblyInfo.cs
+C:\Users\Apia\Documents\Coding\fan-control\obj\Debug\net9.0\fan-control.csproj.CoreCompileInputs.cache
+C:\Users\Apia\Documents\Coding\fan-control\obj\Debug\net9.0\fan-control.sourcelink.json
+C:\Users\Apia\Documents\Coding\fan-control\obj\Debug\net9.0\fan-control.dll
+C:\Users\Apia\Documents\Coding\fan-control\obj\Debug\net9.0\refint\fan-control.dll
+C:\Users\Apia\Documents\Coding\fan-control\obj\Debug\net9.0\fan-control.pdb
+C:\Users\Apia\Documents\Coding\fan-control\obj\Debug\net9.0\fan-control.genruntimeconfig.cache
+C:\Users\Apia\Documents\Coding\fan-control\obj\Debug\net9.0\ref\fan-control.dll
